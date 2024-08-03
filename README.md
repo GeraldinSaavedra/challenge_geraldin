@@ -74,13 +74,31 @@ Las características que debe tener el proyecto son:
 
 ### Encriptación del mensaje
 
-![demo1]()
+![demo1](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/7b36fdb4bb56ec4c317be7f327008e64c2a2317c/Captura%20de%20pantalla%202024-08-03%20092007.png)
 
 
-### Aquí el texto encriptado es desencriptado
+### Desencriptación del mensaje
 
-![demo2]()
+![demo2](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/7b36fdb4bb56ec4c317be7f327008e64c2a2317c/Captura%20de%20pantalla%202024-08-03%20092036.png )
+
+### Desencriptación del mensaje secreto (reto)
+
+![demo3](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/df50c0e0f35b2890649d08b80b3353567722a33c/Captura%20de%20pantalla%202024-08-03%20092730.png )
 
 </p>
 ---
 
+## Personas contribuyentes
+
+Este challenge es presentado por Geraldin Saavedra, estuadiante del Proyecto ONE de Oracle+Alura LATAM.
+
+![geraldin](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/df50c0e0f35b2890649d08b80b3353567722a33c/Captura%20de%20pantalla%202024-08-03%20093003.png)
+
+---
+
+## Conclusión
+<p align="justify">
+Participar en el challenge ha sido una oportunidad invaluable para consolidar los conocimientos adquiridos durante los ocho cursos de formación en JavaScript, HTML, y CSS para el diseño de páginas web. Este proceso no solo reforzó mis habilidades técnicas, sino que también me permitió aplicar de manera práctica todo lo aprendido, llevándome a nuevos niveles de comprensión y destreza. 
+La programación es un campo asombroso que abre puertas a nuevas posibilidades, permitiéndonos explorar y resolver problemas que antes parecían inalcanzables. Nos ayuda a desarrollar el pensamiento lógico, estimula la creatividad e impulsa la innovación, dándonos la oportunidad de transformar nuestras ideas en proyectos que pueden mejorar la ciencia y el día a día de las personas. Estoy muy agradecida por el Proyecto ONE de Oracle+Alura LATAM, que me brinda la oportunidad de formarme como programadora y disfrutar de esta experiencia enriquecedora.
+</p>
+---
