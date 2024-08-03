@@ -36,6 +36,51 @@ La interfaz del programa se presenta en la siguiente imagen, donde se puede ver 
 El proyecto se encuentra en desarrollo, ya que si bien, se han cumplido con las caracteristicas solicitadas por el desafio aun pueden realizarse mejoras en cuanto la presentación de la interfaz, o incluir nuevas funciones si se desea.
 
 Actualmente el proyecto permite encriptar mensajes, copiar el resultado y desencriptar mensajes, también permite adaptar su interfaz a diferentes dispositivos ya sea computador, tablet o celular. Además, envia un mensaje en caso de no estarse cumpliendo la condición de usar solo letras minusculas sin acento.
+![juego](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/3fc940d019078a55ce297a6c510e21a3e3bfa3db/Captura%20de%20pantalla%202024-08-03%20091302.png)
 
+
+---
+## Características de la aplicación
+
+Las características que debe tener el proyecto son:
+
+`Llaves de encriptación: ` 
+
+- La letra "**a**" se convierte en "**ai**".
+
+- La letra "**e**" se convierte en "**enter**".
+
+- La letra "**i**" se convierte en "**imes**".
+
+- La letra "**o**" se convierte en "**ober**".
+
+- La letra "**u**" se convierte en "**ufat**".
+
+`Requisitos:`
+
+- Solo funciona con letras minúsculas.
+
+- No se utilizan acentos ni caracteres especiales.
+
+- Se convierte una palabra o texto z versión encriptada y también una palabra o frase encritada a versión original.
+  
+- Permite copiar el mensaje encriptado mediante un botón que actua como CRL+C.
+
+---
+
+## Demostración de la aplicación
+
+ <p align="center">
+
+### Encriptación del mensaje
+
+![demo1]()
+
+
+### Aquí el texto encriptado es desencriptado
+
+![demo2]()
+
+</p>
 ---
 
