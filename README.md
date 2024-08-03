@@ -26,9 +26,16 @@ El presente proyecto es el cumplimiento del challenge creado por ALURA LATAM y O
 
 La interfaz del programa se presenta en la siguiente imagen, donde se puede ver que contiene un cuadro de texto para ingresar el mensaje, botones que permiten encriptar y desencriptar, además de un espacio para visualizar el mensaje y copiarlo.
 
-![juego](https://github.com/user-attachments/assets/878b0bca-8712-4db6-a508-9cc9922e4c5f)
+![juego](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/0df031c2e7c1fce755f5502231f1905b667260af/Captura%20de%20pantalla%202024-08-03%20090022.png)
 
 </p>
+
+---
+## Estado del proyecto
+
+El proyecto se encuentra en desarrollo, ya que si bien, se han cumplido con las caracteristicas solicitadas por el desafio aun pueden realizarse mejoras en cuanto la presentación de la interfaz, o incluir nuevas funciones si se desea.
+
+Actualmente el proyecto permite encriptar mensajes, copiar el resultado y desencriptar mensajes, también permite adaptar su interfaz a diferentes dispositivos ya sea computador, tablet o celular. Además, envia un mensaje en caso de no estarse cumpliendo la condición de usar solo letras minusculas sin acento.
 
 ---
 
